@@ -1,5 +1,5 @@
 # GNN-garden
-A bouquet of simple GNN examples showcasing many architectures.
+A bouquet of simple GNN examples across many architectures.
 
 [Graph Convolutional Network](/GCN)
 
